@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileWebAPI", "MobileWebAPI\MobileWebAPI.csproj", "{B9FBE8CE-A533-4E65-8AB4-EBB9079B1006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendService", "BackendService\BackendService.csproj", "{3A971B86-D8E9-49BE-A81B-3E8337B686C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFProvider", "EFProvider\EFProvider.csproj", "{9F3E94A1-EB91-43EE-9BC8-1620615E2841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.DTO", "Application.DTO\Application.DTO.csproj", "{4F03BCDE-BD71-46E9-843C-5EF69ADDECA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FBE8CE-A533-4E65-8AB4-EBB9079B1006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FBE8CE-A533-4E65-8AB4-EBB9079B1006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FBE8CE-A533-4E65-8AB4-EBB9079B1006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FBE8CE-A533-4E65-8AB4-EBB9079B1006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A971B86-D8E9-49BE-A81B-3E8337B686C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A971B86-D8E9-49BE-A81B-3E8337B686C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A971B86-D8E9-49BE-A81B-3E8337B686C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A971B86-D8E9-49BE-A81B-3E8337B686C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3E94A1-EB91-43EE-9BC8-1620615E2841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3E94A1-EB91-43EE-9BC8-1620615E2841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3E94A1-EB91-43EE-9BC8-1620615E2841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3E94A1-EB91-43EE-9BC8-1620615E2841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F03BCDE-BD71-46E9-843C-5EF69ADDECA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F03BCDE-BD71-46E9-843C-5EF69ADDECA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F03BCDE-BD71-46E9-843C-5EF69ADDECA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F03BCDE-BD71-46E9-843C-5EF69ADDECA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
